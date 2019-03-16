@@ -1,14 +1,14 @@
 {
-  "main.css": "/sphnixdass/hosingTesting2/static/css/main.f43668a7.chunk.css",
-  "main.js": "/sphnixdass/hosingTesting2/static/js/main.d4f84a0f.chunk.js",
-  "main.js.map": "/sphnixdass/hosingTesting2/static/js/main.d4f84a0f.chunk.js.map",
-  "runtime~main.js": "/sphnixdass/hosingTesting2/static/js/runtime~main.e83d854a.js",
-  "runtime~main.js.map": "/sphnixdass/hosingTesting2/static/js/runtime~main.e83d854a.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/sphnixdass/hosingTesting2/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/sphnixdass/hosingTesting2/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/sphnixdass/hosingTesting2/index.html",
-  "precache-manifest.8579ca0bf4bfa160d64d7335f079d14e.js": "/sphnixdass/hosingTesting2/precache-manifest.8579ca0bf4bfa160d64d7335f079d14e.js",
-  "service-worker.js": "/sphnixdass/hosingTesting2/service-worker.js",
-  "static/css/main.f43668a7.chunk.css.map": "/sphnixdass/hosingTesting2/static/css/main.f43668a7.chunk.css.map",
-  "static/media/logo.svg": "/sphnixdass/hosingTesting2/static/media/logo.5d5d9eef.svg"
+  "main.css": "/sphnixdass/hosingTesting/static/css/main.f43668a7.chunk.css",
+  "main.js": "/sphnixdass/hosingTesting/static/js/main.6b0e68ed.chunk.js",
+  "main.js.map": "/sphnixdass/hosingTesting/static/js/main.6b0e68ed.chunk.js.map",
+  "runtime~main.js": "/sphnixdass/hosingTesting/static/js/runtime~main.35617604.js",
+  "runtime~main.js.map": "/sphnixdass/hosingTesting/static/js/runtime~main.35617604.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/sphnixdass/hosingTesting/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/sphnixdass/hosingTesting/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/sphnixdass/hosingTesting/index.html",
+  "precache-manifest.bbaa80cd9094f531c5880d38ca0366ce.js": "/sphnixdass/hosingTesting/precache-manifest.bbaa80cd9094f531c5880d38ca0366ce.js",
+  "service-worker.js": "/sphnixdass/hosingTesting/service-worker.js",
+  "static/css/main.f43668a7.chunk.css.map": "/sphnixdass/hosingTesting/static/css/main.f43668a7.chunk.css.map",
+  "static/media/logo.svg": "/sphnixdass/hosingTesting/static/media/logo.5d5d9eef.svg"
 }

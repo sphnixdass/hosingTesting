@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sphnixdass/hosingTesting2/precache-manifest.8579ca0bf4bfa160d64d7335f079d14e.js"
+  "/sphnixdass/hosingTesting/precache-manifest.bbaa80cd9094f531c5880d38ca0366ce.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sphnixdass/hosingTesting2/index.html", {
+workbox.routing.registerNavigationRoute("/sphnixdass/hosingTesting/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
